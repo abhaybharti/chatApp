@@ -1,0 +1,5 @@
+https://medium.freecodecamp.org/lets-build-a-react-chatroom-component-ed353982d826
+
+https://blog.hellojs.org/fetching-api-data-with-react-js-460fe8bbf8f2
+
+https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
