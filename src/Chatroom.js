@@ -43,8 +43,8 @@ class Chatroom extends React.Component {
 		console.log("Chatroom->loadResponse()");
 		var url='https://api.github.com/users/'+this.refs.msg;
 		console.log ("url "+url);
-		fetch(url).then(results => {
-		//fetch('https://api.github.com/users/abhaybharti').then(results => {
+		//fetch(url).then(results => {
+		fetch('https://api.github.com/users/abhaybharti').then(results => {
 			return results.json();
 		}).then(data=>{
 			console.log("Data - "+data);
